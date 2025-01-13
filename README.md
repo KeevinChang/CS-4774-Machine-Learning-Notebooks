@@ -1,7 +1,4 @@
-# CS-4774
-ML coding samples
-
-Index:
+# Index:
 Assignments:
 1. Regression Models on Predicting Medical Costs
 2. Clustering California Housing with K-means
